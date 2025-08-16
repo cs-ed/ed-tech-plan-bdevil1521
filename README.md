@@ -18,15 +18,15 @@ Teaching Context
 
 Grade Level: 10th–12th grade students.
 
-Class Size: Approximately 25 students per section.
+Class Size: Approximately 12 students per section.
 
-Student Demographics: Mixed demographic population with varying levels of technology access at home. About 30% are first-time CS learners; 10% have prior coding experience.
+Student Demographics: Our demographic is a primarily white, lower to middle-class population with a variety of technology access at home. Most are first time CS learners with little to no coding experience other than the occasional "Day of Code" experience.
 
-Classroom Environment: Computer lab with 1:1 desktops for students, plus students’ ability to bring personal laptops if needed. Projector and smartboard available for lessons.
+Classroom Environment: Our computer lab would provide 1:1 access for students to a high-end, modern gaming PC. Additionally, all students have their own, school-provided, Chromebook with internet access at school and home. The classroom also includes a smart board and a TV wall(4 large smart TV's) capable of mirroring a techer PC.
 
-School Technology Access: Reliable broadband internet (1 Gbps), cloud-based LMS (Google Classroom), and access to Google Workspace for Education.
+School Technology Access: The school has high-speed wifi access for all PC's and Chromebooks; however, there are some restrictions on information available to students. Additionally, students use Canvas for all classes and student verions of Adobe Creative Cloud and Google applications.
 
-I am assuming this is a public high school setting, though the plan can be adapted for different schools or district requirements.
+I am my current public high school setting, though the plan can be adapted for different schools or district requirements.
 
 ## Plan
 
@@ -34,81 +34,82 @@ I am assuming this is a public high school setting, though the plan can be adapt
 
 Software
 
-Operating Systems: Windows 11 on desktops, teacher laptop with dual-boot (Windows/Linux) for flexibility
+Operating Systems: Windows 11 on desktops, and ChromeOS for all chromebooks
 
-Learning Management System (LMS): Google Classroom
+Learning Management System (LMS): Instructure Canvas
 
 Programming Environments:
 
 Scratch (for block-based projects)
 
-Thonny IDE (Python)
-
-Repl.it (cloud coding & collaboration)
-
 GitHub Classroom (version control & project collaboration)
 
 Multimedia Tools:
 
-Canva & Adobe Express (for project visuals and presentations)
+Canva & Adobe Student Creative Cloud (for project visuals and presentations)
 
-WeVideo (for digital storytelling projects)
-
-Communication Tools: Google Meet, Gmail, and LMS-integrated messaging
+Communication Tools: Google Meet, Gmail, and Canvas integrated messaging
 
 Accessibility Tools: Text-to-speech readers, closed-captioning for videos, and high-contrast display settings
+
 ### Hardware Specifications
 
 Hardware
 
-Instructor Laptop
+Student Workstations: 15 Stations total
 
-Dell Inspiron 15 (or equivalent)
+MSI Codex Z2 Gaming Desktop: AMD R7-8700F, GeForce RTX 5070, 32GB DDR5, 2TB m.2 NVMe SSD, USB Type-C, VR-Ready, Windows 11 Home : A8NVP-436US
 
-Intel Core i5, quad-core 4.0 GHz
+Memory Storage Capacity	2 TB
+Memory Slots Available	2
+RAM Memory Installed	32 GB
+RAM Memory Technology	DDR5
+Ram Memory Maximum Size	96 GB
+Memory Speed	6000 MHz
+RAM Type	DDR5 RAM
+Memory Clock Speed	3000 MHz
+Graphics Description	RTX 5070
+Graphics Coprocessor	NVIDIA GeForce RTX 5070
+Graphics Card Ram	12 GB
+Graphics Ram Type	GDDR6
+Graphics Card Interface	PCI Express
+Processor Series	Ryzen 7
+Processor Speed	4.1 GHz
+Processor Socket	Socket AM4
+Processor Count	1
+CPU Model Speed Maximum	5 GHz
 
-16 GB RAM
+Display Specs:
+SANSUI 27 Inch Curved 240Hz Gaming Monitor FHD 1080P, 1500R Curve Computer Monitor, 130% sRGB, 4000:1 Contrast, HDR, FreeSync, MPRT 1Ms, Low Blue Light, HDMI DP Ports, Metal Stand, DP Cable Incl.
 
-512 GB SSD
+Aspect Ratio	16:9
+Screen Finish	Matte
+Contrast Ratio	4000:1
+Refresh Rate	240 Hz
+Display Type	LED
+Resolution	FHD 1080p
+Display Resolution Maximum	1920 x 1080 Pixels
+Native Resolution	1920x1080
 
-External HDMI connection for projector/smartboard
-
-Student Desktops (25 workstations)
-
-Dell Optiplex with 20" monitors
-
-Intel Core i3, 3.2 GHz
-
-8 GB RAM
-
-500 GB HDD
-
-Ethernet-connected (for stability in programming projects)
 
 Peripheral Classroom Technology
 
-Projector and smartboard for lecture visuals
+Smartboard and TV Wall for lecture visuals
 
 Document camera for demonstrations
 
-Classroom printer for project handouts and student work submission (as needed)
-
-Headsets with microphones for students (for coding tutorials, accessibility, and collaboration)
+Headsets with microphones for students
 
 Network Infrastructure
+Schoolwide Wi-Fi for PC's/laptops/mobile devices
 
-Gigabit Ethernet in lab; schoolwide Wi-Fi for laptops/mobile devices
-
-Firewall and content filtering for safe browsing
-
-Cloud-hosted LMS and tools (Google, GitHub, Repl.it)
+Cloud-hosted LMS and tools (Google, Canvs, GitHub)
 
 ### Application
 
 Application
 
 Students will use this technology in the following ways:
-
 Coding & Projects: Students will code in Python (via Thonny/Repl.it) and Scratch. GitHub Classroom will be used for project submission, collaboration, and version control.
 
 Assignments & Feedback: Assignments will be distributed via Google Classroom, where students will also submit their work. Feedback will be given through Google Docs comments, GitHub pull request reviews, and rubric-based assessments.
