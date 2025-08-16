@@ -28,11 +28,7 @@ School Technology Access: The school has high-speed wifi access for all PC's and
 
 I am my current public high school setting, though the plan can be adapted for different schools or district requirements.
 
-## Plan
-
 ### Software Specifications
-
-Software
 
 Operating Systems: Windows 11 on desktops, and ChromeOS for all chromebooks
 
@@ -53,8 +49,6 @@ Communication Tools: Google Meet, Gmail, and Canvas integrated messaging
 Accessibility Tools: Text-to-speech readers, closed-captioning for videos, and high-contrast display settings
 
 ### Hardware Specifications
-
-Hardware
 
 Student Workstations: 15 Stations total
 
@@ -106,8 +100,6 @@ Cloud-hosted LMS and tools (Google, Canvs, GitHub)
 
 ### Application
 
-Application:
-
 Students will use this technology to code in Scratch and python. GitHub and Canvas will be used for project submission, collaboration, and version control. All assignments will be distributed via Canvas, where students will also submit their work. Feedback will be given through Canvas comments, GitHub pull request reviews, and rubric-based assessments. Lessons will be broken into short modules (20–30 minutes) with practice checkpoints. Lessons will use pair programming, peer review sessions, and interactive coding challenges to encourage active learning.<br/>
 
 
@@ -120,7 +112,5 @@ Flipped Classroom for certain lessons, with video lectures assigned as homework 
 Differentiated Instruction through self-paced coding platforms and extension projects for advanced learners.
 
 ### Impacts
-
-Impacts
 
 Students gain hands-on coding experience while practicing collaboration and critical thinking. They will develop digital literacy and computational thinking applicable across fields. The plan shifts the classroom toward student-centered learning, encouraging exploration and peer teaching. Technology supports scaffolding and allows flexible pacing. Accessibility tools and cloud-based platforms ensure all students can participate, even those with limited home access. Pair programming and collaborative platforms also ensure equitable involvement. If instruction moves online, all tools (Canvas, GitHub, Google Suite) remain fully functional remotely, minimizing disruption. Video lessons and virtual office hours would replace in-person instruction.
